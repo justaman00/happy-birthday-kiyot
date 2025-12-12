@@ -381,7 +381,7 @@ body {
 }
 
 .nine p {
-    font-size: 50px;        /* ubah ukuran teks */
+    font-size: 8px;        /* ubah ukuran teks */
     line-height: 1.6;       /* jarak antar baris */
     margin: 12px 0;         /* jarak antar paragraf */
 }
